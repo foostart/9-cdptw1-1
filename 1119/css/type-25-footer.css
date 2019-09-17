@@ -1,0 +1,14 @@
+.type-25-footer .footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 5;
+  width: 83.333%;
+  background: #fff;
+  padding: 15px 20px;
+  display: block;
+}
+.type-25-footer .footer a {
+  color: #5A738E;
+  text-decoration: none;
+}
