@@ -1,4 +1,8 @@
 .type {
+    .row {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
     header{
         background: rgb(10, 63, 102);
         .header-left{
@@ -203,6 +207,46 @@
             }
         }
     }
+
+    .container
+    {
+        .l-main
+            {
+                .main
+                    {
+                        .field{
+                            .woocommerce
+                            {
+                                .cart-collaterals
+                                {
+                                    .cart_totals 
+                                    {
+                                        .table-checkout
+                                        {
+                                            .tbody-checkout
+                                            {
+                                                .box-checkout
+                                                {
+                                                    background: #106EAA;
+                                                    width: 100%;
+                                                    padding: 25px 0px;
+                                                    .th-procedd
+                                                    {
+                                                             text-align: center;
+                                                             color: white;
+                                                             font-size: 1em;
+                                                    }
+                                               
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+            }
+    }
     @media(min-width:900px)
         {
         .menu-icon{     
@@ -215,8 +259,9 @@
             display: block !important;
         }
     }
-    @media (max-width:899px)
+    @media (max-width:805px)
         {
+
         .menu-icon{
             opacity: 1;
             transform: translateX(0);
@@ -270,11 +315,7 @@
     div {
         padding:0;
     }
-    .row {
-        margin: 0 auto;
-        max-width: 85.71429em;
-        width: 100%;
-    }
+
     form {
         margin: 0;
         padding: 0;
@@ -306,6 +347,8 @@
         display: table-cell;
         line-height: 1.125rem;
     }
+
+    
     .woocommerce table.shop_table th {
         font-weight: 700;
         padding: 9px 12px;

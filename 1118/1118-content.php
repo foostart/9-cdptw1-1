@@ -136,7 +136,9 @@
                     </div>
                 </div>
             </header>
-            <main class="l-main">
+
+            <div class="container">
+                         <main class="l-main">
                 <div class="main row">	
 
                     <article>
@@ -225,16 +227,17 @@
                                                     <th>Total</th>
                                                     <td data-title="Total"><strong><span class="amount">£24.00</span></strong> </td>
                                                 </tr>
-
+                                            
 
                                             </tbody></table>
-
-                                        <div class="wc-proceed-to-checkout">
-
-                                            <a href="#" class="checkout-button button alt wc-forward">
-                                                Proceed to Checkout </a>
-                                        </div>
-
+                                            <table class="table-checkout">
+                                            <tbody class="tbody-checkout">
+                                                     <tr class="box-checkout">
+                                                    <th class="th-procedd">  Proceed to Checkout </th>
+                                                    
+                                                </tr>
+                                            </tbody>
+                                        </table>
 
                                     </div>
 
@@ -245,7 +248,9 @@
                     </article>
 
                 </div>  
-            </main>
+            </main>   
+            </div>
+
         </div> 
          <footer>
             <div class="container">
