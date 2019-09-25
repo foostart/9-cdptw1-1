@@ -1,28 +1,4 @@
-<html>
-    <head>
-        <title>TODO supply a title</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <?php
-        if (!class_exists('lessc')) {
-            include ('../type-8/libs/lessc.inc.php');
-        }
-        $less = new lessc;
-        $less->compileFile('less/peopleShow-less.less', 'css/peopleShow-css.css');
-        $less->compileFile('less/slick.less', 'css/slick.css');
-        $less->compileFile('less/slick-theme.less', 'css/slick-theme.css');
-        ?>
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/peopleShow-css.css" rel="stylesheet" type="text/css"/>
-        <link href="css/slick.css" rel="stylesheet" type="text/css"/>
-        <link href="css/slick-theme.css" rel="stylesheet" type="text/css"/>
 
-        <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-        <script src="js/slick.min.js" type="text/javascript"></script>
-        <script src="js/peopleShow-js.js" type="text/javascript"></script>
-    </head>
-    <body>
         <div class="people-slide">
             <div class="container">
                 <div class="people-slide-text">
@@ -86,8 +62,3 @@
         </script>
 
         
-        
-
-
-    </body>
-</html>

@@ -26,6 +26,7 @@ $less->compileFile('less/type-25-footer.less', 'css/type-25-footer.css');
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="css/type-25-footer.css" rel="stylesheet" type="text/css"/>
   
 </head>
 <body>

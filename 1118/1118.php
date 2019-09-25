@@ -25,9 +25,13 @@ $less->compileFile('less/styles.less', 'css/styles.css');
     <title>111balala4</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script href="<?php echo $url_path?>/js/jquery-2.1.4.min.js"></script>
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="<?php echo $url_path?>/css/styles.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-   
+    <script href="<?php echo $url_path?>/js/1118.js"></script>
+    
+    
 </head>
 <body>
     <?php include $dir_block.'/1118-content.php'; ?>

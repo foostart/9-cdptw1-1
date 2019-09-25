@@ -1,29 +1,5 @@
-<html>
 
-    <head>
-        <title>TODO supply a title</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-
-        <?php
-        if (!class_exists('lessc')) {
-            include ('./libs/lessc.inc.php');
-        }
-        $less = new lessc;
-        $less->compileFile('less/styles.less', 'css/styles.css');
-        ?>
-
-        <link href="css/styles.css" rel="stylesheet" type="text/css" />
-
-        <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
-        
-    </head>
-
-    <body>
-        <div class="type">
+        <div class="type-1118">
             <header>
                 <div class="row">
                     <div class="container">
@@ -76,17 +52,21 @@
                 </div>
                 <div class="header-navigator">
                     <div class="container">
+                   
                         <div class="logo">
                             <a href="#"><img src="images/logo_42-1.png"></a>
                         </div>
                         <div class="toggle-topbar menu-icon">
-                            <a><p>MENU <i class="fa fa-navicon"></i></p></a>
+                            <a><p>MENU <i class="fa fa-navicon" onclick="openNav()"></i></p></a>
                         </div>
                         <a class="button right primary home-cta" href="#">Request a Quote <i class="fa fa-long-arrow-right"></i></a>
-
-                        <ul class="menu-nav">
+                        <ul id="mySidenav" class="menu-nav">
+                              <li id="menu-item-12" class="color-2">
+                                        <a href="#">X</a>
+                                    </li>
                             <li><a href="#">Home</a>
                                 <ul class="sub-menu dropdown ">
+                                  
                                     <li id="menu-item-12" class="color-2">
                                         <a href="#">Home One</a>
                                     </li>
@@ -321,4 +301,4 @@
                 <p>© 2016 Factory All rights reserved.</p>
             </div>
         </div>
-    </body>
+   

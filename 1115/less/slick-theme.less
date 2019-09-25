@@ -8,8 +8,7 @@
 @slick-arrow-color: black;
 @slick-dot-color: black;
 @slick-dot-color-active: @slick-dot-color;
-@slick-prev-character: "<";
-@slick-next-character: ">";
+
 @slick-dot-character: "•";
 @slick-dot-size: 6px;
 @slick-opacity-default: 0.75;
@@ -42,8 +41,6 @@
     line-height: 0px;
     font-size: 0px;
     cursor: pointer;
-    background: #000;
-    color: trasparennt;
     top: 50%;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
@@ -53,8 +50,7 @@
     outline: none;
     &:hover, &:focus {
         outline: none;
-        background: #000;
-        color: black;
+      
         &:before {
             opacity: @slick-opacity-on-hover;
         }

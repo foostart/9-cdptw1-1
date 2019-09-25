@@ -18,8 +18,6 @@
   line-height: 0px;
   font-size: 0px;
   cursor: pointer;
-  background: #000;
-  color: trasparennt;
   top: 50%;
   -webkit-transform: translate(0,-50%);
   -ms-transform: translate(0,-50%);
@@ -33,8 +31,6 @@
 .slick-next:hover,
 .slick-next:focus {
   outline: none;
-  background: #000;
-  color: black;
 }
 .slick-prev:hover:before,
 .slick-prev:focus:before,
@@ -64,10 +60,10 @@
   right: -25px;
 }
 .slick-prev:before {
-  content: "<";
+  content: ;
 }
 .slick-prev:before[dir="rtl"] {
-  content: ">";
+  content: ;
 }
 .slick-next {
   right: -25px;
@@ -77,10 +73,10 @@
   right: auto;
 }
 .slick-next:before {
-  content: ">";
+  content: ;
 }
 .slick-next:before[dir="rtl"] {
-  content: "<";
+  content: ;
 }
 .slick-dotted .slick-slider {
   margin-bottom: 30px;
