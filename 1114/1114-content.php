@@ -3,7 +3,6 @@
         
         <div class="wf-row">
             <div class="container ">
-            <div class="autoplay" stt="1">
                 <h2>COMPANY NEWS</h2>
                 <div class="col-md-4 col-sm-4 wfrowmin">
                     <img src="images/post-4-650x350.jpg">
@@ -30,6 +29,5 @@
                     </div>
                 </div>
              </div>
-            </div>
         </div>
         <!--/Phan "Comany News -->
