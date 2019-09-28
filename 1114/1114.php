@@ -27,6 +27,7 @@
         <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/companyNews-css.css" rel="stylesheet" type="text/css" />
+        <script href="<?php echo $url_path?>/js/swiper.js"></script>
     </head>
     <body>
         <?php include $dir_block.'/1114-content.php'; ?>

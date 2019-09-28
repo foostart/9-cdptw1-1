@@ -11,7 +11,7 @@
     @display_block: block;
     @width_100:100%;
     @z-index_1: 1;
-    .asset-bg.alt-nine {
+    .alt-nine {
         background-image: url(../images/nhood_impact_bkg.png);
         background-repeat: repeat;
         background-position: center top;
@@ -36,30 +36,16 @@
         height: @height_auto;
         overflow: @overflow_hidden;
     }
-    .bb0 {
-        border-bottom: 0 !important;
-    }
-    .bt0 {
-        border-top: 0 !important;
-    }
-    .mb0 {
-        margin-bottom: 0 !important;
-    }
-    .mt0 {
-        margin-top: 0 !important;
-    }
-    [class*="span"] {
-        max-width: 100%;
-    }
-    .title-header .spb_call_text {
+    
+     .spb_call_text {
         width: 83%;
 
     }
-    .cta_align_left .spb_call_text, .title-header .spb_call_text {
+    .cta_align_left .spb_call_text,  .spb_call_text {
         float: @float;
         clear: none;
     }
-    .spb_impact_text .spb_call_text, .impact-text {
+    .spb_impact_text .spb_call_text, {
         font-weight: 300;
         margin-bottom: 0;
         padding: 0px 70px;
@@ -185,15 +171,15 @@
         opacity: 1; 
         display: block;
     }
-    .owl-carousel .owl-wrapper-outer {
+     .owl-wrapper-outer {
         overflow: @overflow_hidden;
         position: @position_rela;
         width: @width_100;
     }
-    .owl-carousel .owl-wrapper {
+     .owl-wrapper {
         position: @position_rela;
     }
-    .owl-carousel .owl-item {
+    .owl-item {
         float: @float;
     }
     .carousel-wrap .carousel-item {

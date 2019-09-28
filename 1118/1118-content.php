@@ -23,18 +23,18 @@
                         <ul>
                             <li>
                                 <a href="#"><img src="images/en.png">
-                                    <span class="icl_lang_sel_current icl_lang_sel_native">English</span>
+                                    <span class="">English</span>
                                     <i class="fa fa-caret-down"></i>
                                 </a>
                                 <ul class="list-lang">
                                     <li>
                                         <a href="#"><img src="images/fr.png">
-                                            <span class="icl_lang_sel_native">Francais</span>
+                                            <span class="">Francais</span>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#"><img src="images/es.png">
-                                            <span class="icl_lang_sel_native">Francais</span>
+                                            <span class="">Francais</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -55,7 +55,7 @@
                 <div class="logo">
                     <a href="#"><img src="images/logo_42-1.png"></a>
                 </div>
-                <div class="toggle-topbar menu-icon">
+                <div class=" menu-icon">
                     <a>
                         <p>MENU <i class="fa fa-navicon" onclick="openNav()"></i></p>
                     </a>
@@ -63,48 +63,48 @@
                 <a class="button right primary home-cta" href="#">Request a Quote <i
                         class="fa fa-long-arrow-right"></i></a>
                 <ul id="mySidenav" class="menu-nav">
-                    <li id="menu-item-12" class="color-2">
+                    <li id="menu-item-12" >
                         <a href="#">X</a>
                     </li>
                     <li><a href="#">Home</a>
-                        <ul class="sub-menu dropdown ">
+                        <ul class=" dropdown ">
 
-                            <li id="menu-item-12" class="color-2">
+                            <li id="menu-item-12">
                                 <a href="#">Home One</a>
                             </li>
-                            <li id="menu-item-2362" class="color-2">
+                            <li id="menu-item-2362" >
                                 <a href="#">Home Two</a>
                             </li>
-                            <li id="menu-item-2427" class="color-2">
+                            <li id="menu-item-2427">
                                 <a href="#">Home Three</a>
                             </li>
-                            <li id="menu-item-2426" class="color-2">
+                            <li id="menu-item-2426" >
                                 <a href="#">Home Four</a>
                             </li>
                         </ul>
                     </li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Services</a>
-                        <ul class="sub-menu dropdown ">
-                            <li id="menu-item-2252" class="color-4">
+                        <ul class=" dropdown ">
+                            <li id="menu-item-2252" >
                                 <a href="#">Glass &amp; aluminum</a>
                             </li>
-                            <li id="menu-item-2253" class="color-4">
+                            <li id="menu-item-2253">
                                 <a href="#">Automotive Industry</a>
                             </li>
-                            <li id="menu-item-2254" class="color-4">
+                            <li id="menu-item-2254" >
                                 <a href="#">Heavy Industry &amp; Mining</a>
                             </li>
-                            <li id="menu-item-2255" class="color-4">
+                            <li id="menu-item-2255" >
                                 <a href="#">Agricultural Engineering</a>
                             </li>
-                            <li id="menu-item-2256" class="color-4">
+                            <li id="menu-item-2256" >
                                 <a href="#">Chemical Industry</a>
                             </li>
-                            <li id="menu-item-2257" class="color-4">
+                            <li id="menu-item-2257" >
                                 <a href="#">Assembly Of Steel</a>
                             </li>
-                            <li id="menu-item-2258" class="color-4">
+                            <li id="menu-item-2258" >
                                 <a href="#">Process Engineering</a>
                             </li>
                         </ul>
@@ -129,31 +129,31 @@
                             <form action="http://themes.webdevia.com/factory/cart/" method="post">
 
 
-                                <table class="shop_table shop_table_responsive cart" cellspacing="0">
+                                <table class="shop_table  cart" cellspacing="0">
                                     <thead>
                                         <tr>
-                                            <th class="product-remove">&nbsp;</th>
-                                            <th class="product-thumbnail">&nbsp;</th>
+                                            <th class="">&nbsp;</th>
+                                            <th class="">&nbsp;</th>
                                             <th class="product-name">Product</th>
-                                            <th class="product-price">Price</th>
+                                            <th class="">Price</th>
                                             <th class="product-quantity">Quantity</th>
-                                            <th class="product-subtotal">Total</th>
+                                            <th class="">Total</th>
                                         </tr>
                                     </thead>
                                     <tbody>
 
-                                        <tr class="cart_item">
+                                        <tr class="">
 
-                                            <td class="product-remove">
+                                            <td class="">
                                                 <a href="http://themes.webdevia.com/factory/cart/?remove_item=7cbbc409ec990f19c78c75bd1e06f215&amp;_wpnonce=a3d497a332"
                                                     class="remove" title="Remove this item" data-product_id="70"
                                                     data-product_sku="">×</a> </td>
 
-                                            <td class="product-thumbnail">
+                                            <td class="">
                                                 <a href="http://themes.webdevia.com/factory/product/flying-ninja/"><img
                                                         width="180" height="180"
                                                         src="http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-180x180.jpg"
-                                                        class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image"
+                                                        class="attachment-shop_thumbnail "
                                                         alt="poster_2_up"
                                                         srcset="http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-180x180.jpg 180w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-150x150.jpg 150w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-300x300.jpg 300w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-768x768.jpg 768w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-140x140.jpg 140w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-370x370.jpg 370w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-600x600.jpg 600w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up.jpg 1000w"
                                                         sizes="(max-width: 180px) 100vw, 180px"></a> </td>
@@ -162,7 +162,7 @@
                                                 <a href="http://themes.webdevia.com/factory/product/flying-ninja/">Flying
                                                     Ninja</a> </td>
 
-                                            <td class="product-price" data-title="Price">
+                                            <td class="" data-title="Price">
                                                 <span class="amount">£12.00</span> </td>
 
                                             <td class="product-quantity" data-title="Quantity">
@@ -173,7 +173,7 @@
                                                 </div>
                                             </td>
 
-                                            <td class="product-subtotal" data-title="Total">
+                                            <td class="" data-title="Total">
                                                 <span class="amount">£24.00</span> </td>
                                         </tr>
                                         <tr>
@@ -211,7 +211,7 @@
 
                                     <h2>Cart Totals</h2>
 
-                                    <table cellspacing="0" class="shop_table shop_table_responsive">
+                                    <table cellspacing="0" class="shop_table ">
 
                                         <tbody>
                                             <tr class="cart-subtotal">
@@ -224,7 +224,7 @@
 
 
 
-                                            <tr class="order-total">
+                                            <tr class="">
                                                 <th>Total</th>
                                                 <td data-title="Total"><strong><span
                                                             class="amount">£24.00</span></strong> </td>

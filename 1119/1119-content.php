@@ -1,6 +1,6 @@
 
         <div class="type-1119">
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row">
                     <div class="footer">
                         <div class="pull-right">

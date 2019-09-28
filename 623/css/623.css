@@ -1,4 +1,4 @@
-.type-623 .asset-bg.alt-nine {
+.type-623 .alt-nine {
   background-image: url(../images/nhood_impact_bkg.png);
   background-repeat: repeat;
   background-position: center top;
@@ -23,31 +23,15 @@
   height: auto;
   overflow: hidden;
 }
-.type-623 .bb0 {
-  border-bottom: 0 !important;
-}
-.type-623 .bt0 {
-  border-top: 0 !important;
-}
-.type-623 .mb0 {
-  margin-bottom: 0 !important;
-}
-.type-623 .mt0 {
-  margin-top: 0 !important;
-}
-.type-623 [class*="span"] {
-  max-width: 100%;
-}
-.type-623 .title-header .spb_call_text {
+.type-623 .spb_call_text {
   width: 83%;
 }
 .type-623 .cta_align_left .spb_call_text,
-.type-623 .title-header .spb_call_text {
+.type-623 .spb_call_text {
   float: left;
   clear: none;
 }
-.type-623 .spb_impact_text .spb_call_text,
-.type-623 .impact-text {
+.type-623 .spb_impact_text .spb_call_text {
   font-weight: 300;
   margin-bottom: 0;
   padding: 0px 70px;
@@ -169,15 +153,15 @@
   opacity: 1;
   display: block;
 }
-.type-623 .owl-carousel .owl-wrapper-outer {
+.type-623 .owl-wrapper-outer {
   overflow: hidden;
   position: relative;
   width: 100%;
 }
-.type-623 .owl-carousel .owl-wrapper {
+.type-623 .owl-wrapper {
   position: relative;
 }
-.type-623 .owl-carousel .owl-item {
+.type-623 .owl-item {
   float: left;
 }
 .type-623 .carousel-wrap .carousel-item {
