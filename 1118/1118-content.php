@@ -55,11 +55,7 @@
                 <div class="logo">
                     <a href="#"><img src="images/logo_42-1.png"></a>
                 </div>
-                <div class=" menu-icon">
-                    <a>
-                        <p>MENU <i class="fa fa-navicon" onclick="openNav()"></i></p>
-                    </a>
-                </div>
+               
                 <a class="button right primary home-cta" href="#">Request a Quote <i
                         class="fa fa-long-arrow-right"></i></a>
                 <ul id="mySidenav" class="menu-nav">

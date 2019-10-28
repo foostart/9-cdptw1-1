@@ -1,0 +1,46 @@
+.type-1119 ul li {
+  list-style: none;
+}
+.type-1119 .social-icon ul li a {
+  border: 2px solid #afafaf;
+  border-radius: 50%;
+  color: #afafaf;
+  display: block;
+  font-size: 20px;
+  height: 36px;
+  padding: 4px 8px;
+  width: 36px;
+}
+.type-1119 .social_icon li {
+  display: inline-block;
+  height: 36px;
+  width: 36px;
+  border: 2px solid #afafaf;
+  border-radius: 50%;
+  color: #afafaf;
+  text-align: center;
+  padding: 4px;
+}
+.type-1119 .social_icon ul li i.fa {
+  background-color: transparent;
+  font-size: 14px;
+  transition: all 0.4s ease-in-out 0s;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  -o-transition: all 0.4s ease-in-out 0s;
+}
+.type-1119 .social_icon ul li a i.fa:hover {
+  color: #000;
+}
+.type-1119 .footer-bottom {
+  background: #FFFFFF;
+  color: #808080;
+}
+.type-1119 .copyright-part {
+  margin: 6px 0;
+}
+.type-1119 .payment-icon li {
+  display: inline-block;
+  font-size: 30px;
+  color: #a5a5a5;
+}

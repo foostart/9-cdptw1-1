@@ -7,6 +7,7 @@
 }
 .type-1118 header .header-left ul {
   font-size: 16px;
+  margin-left: -40px;
 }
 .type-1118 header .header-left ul li {
   display: block;
@@ -98,7 +99,6 @@
   margin-top: 30px;
   margin-right: 50px;
   transition: all 0.5s;
-  margin-left: 7px;
 }
 .type-1118 header .header-navigator .menu-nav {
   transition: all 0.5s;
@@ -158,7 +158,6 @@
   font-weight: 800;
   float: right;
   vertical-align: middle;
-  margin-right: 10px;
 }
 .type-1118 header .header-navigator .menu-icon {
   transition: all 0.5s;
@@ -374,8 +373,7 @@
 }
 .type-1118 .woocommerce table.cart td.actions .input-text,
 .type-1118 .woocommerce-page table.cart td.actions .input-text {
-  width: 80px;
-  padding-bottom: 11px;
+  padding-bottom: 6px;
   font-size: 15px;
 }
 .type-1118 .woocommerce-cart table.cart td.actions .coupon .input-text {
@@ -593,8 +591,8 @@ footer .footermin2 {
   margin-top: 40px;
 }
 footer .footermin2 a:hover {
-  text-decoration: underline;
   color: #AAA;
+  text-decoration: none;
 }
 footer .footermin2 a {
   color: #AAA;
@@ -644,6 +642,7 @@ footer .footermin3 .post-title ul li .text-post h3 a:hover {
 }
 footer .footermin3 .post-title ul li .text-post h3 a {
   color: #FFF;
+  text-decoration: none;
 }
 footer .footermin3 .post-title ul li .text-post p {
   color: #6f6f6f;
@@ -660,6 +659,7 @@ footer .footermin4 .nav-title ul {
 footer .footermin4 .nav-title ul li a {
   color: #AAA;
   line-height: 28px;
+  text-decoration: none;
 }
 .footer-final {
   background-color: #1f1f1f;
@@ -673,7 +673,7 @@ footer .footermin4 .nav-title ul li a {
   color: #777;
 }
 .footer-final p:first-child a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: #106eaa;
 }
 .footer-final p:first-child a {

@@ -1,64 +1,77 @@
-<div class="people-slide">
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+  
+  
+  <div class="wrapper">
+ 
+    <div class="footer pt_60">
+      <div class="container">
+        <div class="row">
+          <div class="footer-top pb_60 mb_30">
+            <!-- =====  testimonial  ===== -->
+            <div class="col-xs-12 ">
+              <div class="Testimonial">
+                <div class="client owl-carousel">
+                  <div class="item client-detail"style="
+                  text-align: center;
+              " > 
+                    <p><i class="fa fa-quote-left" aria-hidden="true"></i>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore Ventage or dorent eu fugiat nulla pariatur . <br> Excepteur sint occaecat cupidatat non proident rum.</p>
+                    <div class="client-title"><strong>MICHAEL STROMBACH</strong></div>
+                    
+                    <div class="client-avatar"> <img alt="" src="images/team-10-70x70.jpg"> </div>
+                  </div>
+                  <div class="item client-detail"style="
+                  text-align: center;  " >
+         <p><i class="fa fa-quote-left" aria-hidden="true"></i>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore Ventage or dorent eu fugiat nulla pariatur . <br> Excepteur sint occaecat cupidatat non proident rum..</p>
+                    <div class="client-title"><strong>STROMBACH MICHAEL</strong></div>
+                   
+                    <div class="client-avatar"> <img alt="" src="images/team-9-70x70.jpg"> </div>
+                  </div>
+                  <div class="item client-detail"style="
+                  text-align: center;
+              " > 
+                    
+                  
+                    <p><i class="fa fa-quote-left" aria-hidden="true"></i>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore Ventage or dorent eu fugiat nulla pariatur . <br> Excepteur sint occaecat cupidatat non proident rum.</p>
+                    <div class="client-title"><strong>MICHAEL STROMBACH</strong></div>
+                    
+                    <div class="client-avatar"> <img alt="" src="images/team-10-70x70.jpg"> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- =====  testimonial end ===== -->
+          </div>
+        </div>
+       
+      </div>
+    
+    </div>
     <div class="container">
-        <div class="people-slide-text">
-            <div class="people-text active-slide" stt="0">
-                <i class="fa fa-quote-left"></i>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore Ventage or dorent eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident rum.
-                <h6>MICHAEL STROMBACH</h6>
-                <i class="fa fa-quote-right"></i>
+      <div id="brand_carouse" class="ptb_50 text-center">
+        <div class="type-01">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="brand owl-carousel ptb_20">
+                <div class="item text-center"> <a href="#"><img src="images/logo-1-1.jpg" alt="Disney" class="img-responsive" /></a> </div>
+                <div class="item text-center"> <a href="#"><img src="images/logo-2-1.jpg" alt="Dell" class="img-responsive" /></a> </div>
+                <div class="item text-center"> <a href="#"><img src="images/logo-2.jpg" alt="Harley" class="img-responsive" /></a> </div>
+                <div class="item text-center"> <a href="#"><img src="images//logo-3-1.jpg" alt="Canon" class="img-responsive" /></a> </div>
+                <div class="item text-center"> <a href="#"><img src="images/logo-4-1.jpg" alt="Canon" class="img-responsive" /></a> </div>
+                <div class="item text-center"> <a href="#"><img src="images/logo-6-1.jpg" alt="Canon" class="img-responsive" /></a> </div>
+                
+              </div>
             </div>
-            <div class="people-text" stt="1">
-                <i class="fa fa-quote-left "></i>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non proident
-                <h6>STROMBACH MICHAEL</h6>
-                <i class="fa fa-quote-right "></i>
-            </div>
+          </div>
         </div>
-
-        <div class="people-pic">
-            <i class="fa fa-chevron-left"></i>
-            <ul>
-                <li><img src="images/team-10-70x70.jpg"></li>
-                <li><img src="images/team-9-70x70.jpg"></li>
-            </ul>
-            <i class="fa fa-chevron-right"></i>
-        </div>
-    </div>
+      </div>
+     
 </div>
-
-<!---------------LOGO SHOW---------------------->
-<div class="container logo-sliderow">
-    <!--            <i class="fa fa-chevron-left"></i>-->
-
-
-    <div class="autoplay" stt="1">
-        <!-- logo-slide -->
-        <div class="logo-item "><img src="images/logo-1-1.jpg"></div>
-        <div class="logo-item "><img src="images/logo-6-1.jpg"></div>
-        <div class="logo-item "><img src="images/logo-2.jpg"></div>
-        <div class="logo-item "><img src="images/logo-3-1.jpg"></div>
-        <div class="logo-item "><img src="images/logo-4-1.jpg"></div>
-        <div class="logo-item"><img src="images/logo-1-1.jpg"></div>
-        <div class="logo-item"><img src="images/logo-2-1.jpg"></div>
-        <div class="logo-item"><img src="images/logo-6-1.jpg"></div>
-        <div class="logo-item"><img src="images/logo-1-1.jpg"></div>
-        <div class="logo-item"><img src="images/logo-2.jpg"></div>
-
-    </div>
-    <!--            <i class="fa fa-chevron-right"></i>-->
-
-
-</div>
-<!---------------LOGO SHOW-------------------->
-<script type="text/javascript">
-
-    $('.autoplay').slick({
-        slidesToShow: 5,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 2000,
-
-    });
-</script>
+  
+</body>
+</html>
+ 

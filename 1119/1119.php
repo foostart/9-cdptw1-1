@@ -15,18 +15,18 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('less/type-25-footer.less', 'css/type-25-footer.css');
+$less->compileFile('less/1119.less', 'css/1119.css');
         ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>111balala4</title>
+    <title>1119</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-    <link href="css/type-25-footer.css" rel="stylesheet" type="text/css"/>
+    <link href="css/1119.css" rel="stylesheet" type="text/css"/>
   
 </head>
 <body>
