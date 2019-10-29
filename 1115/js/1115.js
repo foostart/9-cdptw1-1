@@ -1,14 +1,7 @@
 $(function() {
     "use strict";
     
-    
-    
     function owl_carousel () {
-     
-    
-     
-    
-    
     
         $('.client').owlCarousel({
             autoplay:false,
@@ -17,11 +10,11 @@ $(function() {
             responsive:{
                 0:{
                     items:1,
-                    nav:false
+                   
                 },
                 600:{
                     items:1,
-                    nav:false
+                    
                 },
                 1000:{
                     items:1,
@@ -60,11 +53,11 @@ $(function() {
         $( window ).ready(function() {
             $('[data-toggle="tooltip"]').tooltip();
             owl_carousel ();
-            left_colunm_swetch ();      
+           
         });
        
        
     });
     
     
-    
+   

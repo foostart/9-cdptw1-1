@@ -27,7 +27,6 @@ $less->compileFile('less/1119.less', 'css/1119.css');
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <link href="css/1119.css" rel="stylesheet" type="text/css"/>
-  
 </head>
 <body>
     <?php include $dir_block.'/1119-content.php'; ?>

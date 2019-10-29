@@ -55,10 +55,12 @@
                 <div class="logo">
                     <a href="#"><img src="images/logo_42-1.png"></a>
                 </div>
-               
+                
+                            
                 <a class="button right primary home-cta" href="#">Request a Quote <i
                         class="fa fa-long-arrow-right"></i></a>
-                <ul id="mySidenav" class="menu-nav">
+                <div id="mySidenav" class="menu-nav">
+               
                     <li id="menu-item-12" >
                         <a href="#">X</a>
                     </li>
@@ -108,9 +110,9 @@
                     </li>
                     <li><a href="#">Gallery</a></li>
                     <li><a href="#">Shop</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Blog</a></li> 
                     <li><a href="#">Contact</a></li>
-                </ul>
+                </div>
             </div>
         </div>
     </header>
@@ -122,7 +124,7 @@
                 <article>
                     <div class="body field">
                         <div class="woocommerce">
-                            <form action="http://themes.webdevia.com/factory/cart/" method="post">
+                            <form action="" method="post">
 
 
                                 <table class="shop_table  cart" cellspacing="0">
@@ -141,21 +143,21 @@
                                         <tr class="">
 
                                             <td class="">
-                                                <a href="http://themes.webdevia.com/factory/cart/?remove_item=7cbbc409ec990f19c78c75bd1e06f215&amp;_wpnonce=a3d497a332"
+                                                <a href=""
                                                     class="remove" title="Remove this item" data-product_id="70"
                                                     data-product_sku="">×</a> </td>     
 
                                             <td class="">
-                                                <a href="http://themes.webdevia.com/factory/product/flying-ninja/"><img
+                                                <a href=""><img
                                                         width="180" height="180"
-                                                        src="http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-180x180.jpg"
+                                                        src="/9-cdptw1-1/1118/images/pipeline.jpg"
                                                         class="attachment-shop_thumbnail "
                                                         alt="poster_2_up"
-                                                        srcset="http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-180x180.jpg 180w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-150x150.jpg 150w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-300x300.jpg 300w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-768x768.jpg 768w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-140x140.jpg 140w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-370x370.jpg 370w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up-600x600.jpg 600w, http://themes.webdevia.com/factory/wp-content/uploads/2013/06/poster_2_up.jpg 1000w"
+                                                        srcset=""
                                                         sizes="(max-width: 180px) 100vw, 180px"></a> </td>
 
                                             <td class="product-name" data-title="Product">
-                                                <a href="http://themes.webdevia.com/factory/product/flying-ninja/">Flying
+                                                <a href="   ">Flying
                                                     Ninja</a> </td>
 
                                             <td class="" data-title="Price">
