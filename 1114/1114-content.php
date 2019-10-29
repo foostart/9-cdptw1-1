@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
-<body>
 
 
 
+<div class="type-1114">
   <div class="container">
     <div class="row ">
       <div class="col-sm-12 mtb_10">
@@ -71,8 +67,6 @@
     </div>
 
 
-    <a id="scrollup"></a>
+    </div>
 
-</body>
-
-</html>
+ 

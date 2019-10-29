@@ -5,7 +5,7 @@
 
 <body>
   
-  
+  <div class="type-1115">
   <div class="wrapper">
  
     <div class="footer pt_60">
@@ -71,7 +71,7 @@
       </div>
      
 </div>
-  
+</div>
 </body>
 </html>
  

@@ -1,9 +1,9 @@
 
-        <div class="type-1119">
+<div class="type-1119">
         <div class="container">
-            <div class="row">
+          <div class="row">
             <div class="col-sm-4">
-                <div class="social_icon">
+              <div class="social_icon">
                 <ul>
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#"><i class="fa fa-google"></i></a></li>
@@ -29,11 +29,9 @@
             </div>
             </div>
         </div>
-  
+</div>
 
 
-
-        </div>
  
 
 
