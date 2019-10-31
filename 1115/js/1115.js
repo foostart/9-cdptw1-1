@@ -1,6 +1,4 @@
-$(function() {
-    "use strict";
-    
+$(function() { 
     function owl_carousel () {
     
         $('.client').owlCarousel({
@@ -50,11 +48,7 @@ $(function() {
         })
        
     }  
-        $( window ).ready(function() {
-            $('[data-toggle="tooltip"]').tooltip();
-            owl_carousel ();
-           
-        });
+       
        
        
     });

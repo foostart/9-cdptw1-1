@@ -14,10 +14,10 @@
                 </div>
             </div>
             <div class="col-sm-4">
-                <div class="copyright-part text-center">@ 2019 Le Minh Duc</div>
+                <div class="copyright-part">@ 2019 Le Minh Duc</div>
             </div>
             <div class="col-sm-4">
-                <div class="payment-icon text-right">
+                <div class="payment-icon ">
                 <ul>
                     <li><i class="fa fa-cc-paypal "></i></li>
                     <li><i class="fa fa-cc-visa"></i></li>

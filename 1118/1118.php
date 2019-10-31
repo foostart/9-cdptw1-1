@@ -16,7 +16,7 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('less/styles.less', 'css/styles.css');
+$less->compileFile('less/1118.less', 'css/1118.css');
 
 ?>
 <!DOCTYPE html>
@@ -27,7 +27,7 @@ $less->compileFile('less/styles.less', 'css/styles.css');
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script href="<?php echo $url_path?>/js/jquery-2.1.4.min.js"></script>
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    <link href="<?php echo $url_path?>/css/styles.css" rel="stylesheet" type="text/css"/>
+    <link href="<?php echo $url_path?>/css/1118.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <script href="<?php echo $url_path?>/js/1118.js"></script>
     <script href="<?php echo $url_path?>/js/plugins.js"></script>

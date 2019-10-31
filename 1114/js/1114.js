@@ -1,7 +1,7 @@
 $(function() {
-"use strict";
+
 function owl_carousel () {
-    /* ===== Blog carousel =====   */
+
     $('.blog').owlCarousel({
         autoplay:false,
         responsiveClass:true,
@@ -24,32 +24,5 @@ function owl_carousel () {
 
   
 }
-/* ---- Page Scrollup JS Start ---- */
-   //When distance from top = 250px fade button in/out
-
-     $(window).scroll(function(){
-    if ($(this).scrollTop() > 250) {
-        
-        $('#scrollup').fadeIn(300);
-        } 
-    else {
-        $('#scrollup').fadeOut(300);
-        }
-   }); 
-        $('#scrollup').on('click',function(){
-        $("html, body").animate({ scrollTop: 0 }, 1000);
-        return false;
-    });  
-
-/* ===== Event for windows and document =====   */
-
-   
-    $( window ).ready(function() {
-        $('[data-toggle="tooltip"]').tooltip();
-        owl_carousel ();
-           
-    });
-   
-    
 });
 

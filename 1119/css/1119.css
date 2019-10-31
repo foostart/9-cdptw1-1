@@ -21,23 +21,8 @@
   text-align: center;
   padding: 4px;
 }
-.type-1119 .social_icon ul li i.fa {
-  background-color: transparent;
-  font-size: 14px;
-  transition: all 0.4s ease-in-out 0s;
-  -webkit-transition: all 0.4s ease-in-out 0s;
-  -moz-transition: all 0.4s ease-in-out 0s;
-  -o-transition: all 0.4s ease-in-out 0s;
-}
 .type-1119 .social_icon ul li a i.fa:hover {
   color: #000;
-}
-.type-1119 .footer-bottom {
-  background: #FFFFFF;
-  color: #808080;
-}
-.type-1119 .copyright-part {
-  margin: 6px 0;
 }
 .type-1119 .payment-icon li {
   display: inline-block;
