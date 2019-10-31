@@ -15,7 +15,7 @@
     }
     
     $less = new lessc;
-    $less->compileFile('less/companyNews-less.less', 'css/companyNews-less.css');
+    $less->compileFile('less/1114.less', 'css/1114.css');
     
 ?>
 <!DOCTYPE html>
@@ -26,7 +26,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/companyNews-less.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path?>/css/1114.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/font-awesome.min.css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/bootstrap.css" />
          

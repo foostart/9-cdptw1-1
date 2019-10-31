@@ -1,10 +1,4 @@
 
-<!DOCTYPE html>
-
-<html lang="en">
-
-<body>
-  
   <div class="type-1115">
   <div class="wrapper">
  
@@ -72,6 +66,3 @@
      
 </div>
 </div>
-</body>
-</html>
- 

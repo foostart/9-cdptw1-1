@@ -32,9 +32,6 @@ $less->compileFile('less/styles.less', 'css/styles.css');
     <script href="<?php echo $url_path?>/js/1118.js"></script>
     <script href="<?php echo $url_path?>/js/plugins.js"></script>
     <script href="<?php echo $url_path?>/js/bootstrap.min.js"></script>
-
-    <script src="<?php echo $url_path?>/js/jQuery_v3.1.1.min.js"></script>  
-    <script href="<?php echo $url_path?>/js/jquery-3.2.1.min.js"></script>
     
     
 </head>
