@@ -1,7 +1,5 @@
 (function($) {
-    "use strict";
-
-
+  
     function owlCarousel(target) {
         if (target.length > 0) {
             target.each(function() {
@@ -62,24 +60,11 @@
         }
     }
 
- 
-
-
-
-
-
-
-   
-
     $(document).ready(function() {
      
-       
-      
         owlCarousel($('.owl-slider'));
      
        
     });
 
 })(jQuery);
-
-//# sourceMappingURL=main.js.map
