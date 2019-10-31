@@ -24,6 +24,9 @@
 .type-1119 .social_icon ul li a i.fa:hover {
   color: #000;
 }
+.type-1119 .copyright-part {
+  margin: 6px 0;
+}
 .type-1119 .payment-icon li {
   display: inline-block;
   font-size: 30px;
