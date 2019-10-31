@@ -188,11 +188,3 @@
   opacity: 0;
   display: block;
 }
-@keyframes fadeOut {
-  .type-1115 0% {
-    opacity: 1;
-  }
-  .type-1115 100% {
-    opacity: 0;
-  }
-}

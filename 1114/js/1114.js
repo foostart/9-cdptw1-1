@@ -24,5 +24,15 @@ function owl_carousel () {
 
   
 }
+
+
+   
+    $( window ).ready(function() {
+        $('[data-toggle="tooltip"]').tooltip();
+        owl_carousel ();
+           
+    });
+   
+    
 });
 

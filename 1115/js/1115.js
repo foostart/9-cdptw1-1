@@ -48,7 +48,11 @@ $(function() {
         })
        
     }  
-       
+    $( window ).ready(function() {
+        $('[data-toggle="tooltip"]').tooltip();
+        owl_carousel ();
+           
+    });
        
        
     });

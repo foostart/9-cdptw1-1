@@ -1,7 +1,5 @@
 
   <div class="type-1115">
-  <div class="wrapper">
- 
     <div class="footer pt_60">
       <div class="container">
         <div class="row">
@@ -64,5 +62,5 @@
         </div>
       </div>
      
-</div>
+
 </div>
