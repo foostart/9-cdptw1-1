@@ -6,7 +6,7 @@
     <div class="row ">
       <div class="col-sm-12 mtb_10">
         <div id="Blog" class="mt_50">
-          <div class="heading-part mb_10 ">
+          <div class="heading-part mb_10">
             <h2 class="main_title" style="color: #fff;">COMANY News</h2>
           </div>
           <div class="blog-contain box">

@@ -64,7 +64,6 @@
   color: #555;
 }
 .type-1114 .mtb_10 {
-  margin-top: 10px;
   margin-bottom: 10px;
 }
 .type-1114 .owl-nav {
@@ -145,6 +144,11 @@
   .type-1114 .newsletters input {
     width: 150px;
   }
+}
+.type-1114 a:hover,
+.type-1114 a:focus {
+  color: #23527c;
+  text-decoration: none;
 }
 .type-1114 .owl-carousel {
   display: none;
